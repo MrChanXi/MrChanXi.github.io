@@ -5,7 +5,6 @@ subtitle:   "这是描述"
 date:       2016-08-18 14:00:00
 author:     "作者名字"
 header-img: "img/main-bg.jpg"
-<!-- catalog 是文章目录，关闭就改为false -->
 catalog: true
 tags:
     - 标签1
